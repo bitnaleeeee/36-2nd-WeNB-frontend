@@ -1,17 +1,18 @@
-# 36기 2차 프로젝트 wenb
+# 에어비앤비를 모티브로한 팀 프로젝트
 
-## 프로젝트 소개
+- ## 배포 링크 : [https://bitnaleeeee.github.io/wanted-task/](https://bitnaleeeee.github.io/wanted-task/)
 
-- 제목 : 에어비엔비 클론 프로젝트 [airbnb](https://www.airbnb.co.kr/)클론 프로젝트
-- 선정이유
-  - 반응형 사이트, 케럿셀, 아코디언, 리뷰 평점 분포 그래프, 평점 표현 시 소수 한 자리 반올림, 쿼리파라미터(페이지네이션, 오더링), 네이버 맵 라이브러리 사용, 파일 첨부 구현
+에어비엔비 [Airbnb](https://www.airbnb.co.kr/) 선정 이유
+
+> 반응형 사이트, 케럿셀, 아코디언, 리뷰 평점 분포 그래프, 평점 표현 시 소수 한 자리 반올림, 쿼리파라미터,Calendar 라이브러리 사용, 페이지네이션, 오더링, 다중 필터 기능,네이버 맵 API 사용, 파일 첨부 구현
+
+<br>
 
 ---
 
 ### 개발 인원 및 기간
 
-- 팀명: 위엔비(wenb)
-- 개발기간 : 2022년 08월 29일 ~ 2022년 09월 08일 (11일)
+- 개발기간 : 2022년 08월 29일 ~ 2022년 09월 12일 (2주)
 - 개발인원 : 프론트엔드 4명, 백엔드 3명
   - FE : 김진혁, 이빛나, 임승민, 정원호
   - BE : 박근우, 이상우, 이석원
@@ -44,5 +45,31 @@
   <img src="https://img.shields.io/badge/CI/CD-F6BB43?style=flat-square&logo=CI/CD&logoColor=white"/>
 
 - 협업 툴 : <img src="https://img.shields.io/badge/Notion-1c1c1c?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-553830?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-6441a5?style=flat-square&logo=Trello&logoColor=white"/>
+
+---
+
+### FE 구현 기능
+
+- [x] Kakao 소셜 로그인 구현
+- [x] 숙소 정보 다중 Filter 기능 구현
+- [x] 무한 스크롤, 무한 캐러셀 구현
+- [x] naver map API 활용 숙소 위치 정보 마커 표시
+- [x] 다중 이미지 업로드
+- [x] 숙소 예약 기능
+
+<br>
+
+## Host 페이지 구현 과정
+
+> Flow
+> <img src="https://user-images.githubusercontent.com/85611408/189060474-e2a718ee-7279-4280-a2ad-be96a63a2d98.JPG"/>
+
+> Page
+> <img src="https://user-images.githubusercontent.com/85611408/189060435-5a419736-06bf-4c0e-bbef-956adeb94f5f.JPG"/>
+
+> WeNB
+> <img src="https://user-images.githubusercontent.com/85611408/189060380-b1bb888b-5a5b-4f3a-8a4b-642ac540656f.JPG"/>
+> 다중 Image 업로드, 삭제
+> <img src="https://user-images.githubusercontent.com/85611408/189060409-2aecc952-1c74-495a-99bc-f43b26073ffd.gif"/>
 
 ---
