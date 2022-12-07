@@ -1,6 +1,6 @@
 # 에어비앤비를 모티브로한 팀 프로젝트
 
-- ## 배포 링크 : [https://bitnaleeeee.github.io/wanted-task/](https://bitnaleeeee.github.io/wanted-task/)
+- ## 구현 영상 : <a href="https://youtu.be/DWaKFjUI7Ew"></a>
 
 에어비엔비 [Airbnb](https://www.airbnb.co.kr/) 선정 이유
 
