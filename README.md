@@ -55,18 +55,3 @@
 - [x] 숙소 예약 기능
 
 <br>
-
-## Host 페이지 구현 과정
-
-> Flow
-> <img src="https://user-images.githubusercontent.com/85611408/189060474-e2a718ee-7279-4280-a2ad-be96a63a2d98.JPG"/>
-
-> Page
-> <img src="https://user-images.githubusercontent.com/85611408/189060435-5a419736-06bf-4c0e-bbef-956adeb94f5f.JPG"/>
-
-> WeNB
-> <img src="https://user-images.githubusercontent.com/85611408/189060380-b1bb888b-5a5b-4f3a-8a4b-642ac540656f.JPG"/>
-> 다중 Image 업로드, 삭제
-> <img src="https://user-images.githubusercontent.com/85611408/189060409-2aecc952-1c74-495a-99bc-f43b26073ffd.gif"/>
-
----
