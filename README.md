@@ -1,6 +1,6 @@
 # 에어비앤비를 모티브로한 팀 프로젝트
 
-## 배포 영상 : <a href="https://youtu.be/DWaKFjUI7Ew">영상 바로가기</a>
+## 영상 바로가기 : <a href="https://youtu.be/DWaKFjUI7Ew">배포영상 </a>
 
 에어비엔비 선정 이유
 
