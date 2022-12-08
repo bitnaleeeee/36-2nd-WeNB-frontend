@@ -29,7 +29,8 @@
 
 <img src="https://img.shields.io/badge/Notion-1c1c1c?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-553830?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-6441a5?style=flat-square&logo=Trello&logoColor=white"/>
 
-<br>
+---
+
 
 ## FE 구현 기능
 
@@ -42,8 +43,6 @@
 - [x] 카카오 소셜 로그인
 - [x] 숙소 정보 다중필터 구현
 - [x] 무한 스크롤 구현
-
-<br>
 
 ### 성장 포인트
 
